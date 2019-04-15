@@ -1,0 +1,22 @@
+/*
+*Mackenzie
+*April 15, 2019
+*Semantic Cite on Sports
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Boddy attributes here */
+
+body {
+
+}
+
+/* these three attributes give color to the text and background of the header, main, and footer */
+hgroup {color: navy; background-color:lightblue; }
+main { color: navy; background-color: lightpink;}
+footer {color: navy; background-color: lightgoldenrodyellow; }
